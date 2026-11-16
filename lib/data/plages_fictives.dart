@@ -1,7 +1,5 @@
 import '../models/plage.dart';
 
-/// Données fictives du jalon J1 : liste Dart écrite en dur.
-/// Au J2, elle sera remplacée par la lecture de l'API.
 const List<Plage> plages = [
   Plage(
     id: '1',
