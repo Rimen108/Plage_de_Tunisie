@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import '../models/plage.dart';
-
+import 'signaler_screen.dart';
 
 class DetailScreen extends StatelessWidget {
   final Plage plage;
@@ -28,6 +28,27 @@ class DetailScreen extends StatelessWidget {
           ],
         ),
       ),
+      bottomNavigationBar: SafeArea(
+        child: Padding(
+          padding: const EdgeInsets.fromLTRB(20, 8, 20, 16),
+          child: FilledButton.icon(
+            onPressed: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => SignalerScreen(plage: plage),
+                ),
+              );
+            },
+            icon: const Icon(Icons.flag_outlined),
+            label: const Text('Signaler'),
+            style: FilledButton.styleFrom(
+              minimumSize: const Size.fromHeight(56),
+            ),
+          ),
+        ),
+      ),
     );
+    
   }
 }
