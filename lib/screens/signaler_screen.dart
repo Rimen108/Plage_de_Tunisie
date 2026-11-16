@@ -3,7 +3,7 @@ import '../data/options.dart';
 import '../models/plage.dart';
 import '../models/signalement.dart';
 import '../widgets/plage_visuel.dart';
-
+import 'confirmation_screen.dart';
 
 class SignalerScreen extends StatefulWidget {
   final Plage plage;
@@ -70,11 +70,16 @@ class _SignalerScreenState extends State<SignalerScreen> {
       commentaire: _commentaireCtrl.text.trim(),
     );
 
-    // Provisoire : l'écran de confirmation arrive à l'étape suivante.
-    ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(content: Text('Signalement « ${signalement.type} » prêt')),
+   
+   Navigator.pushReplacement(
+      context,
+      MaterialPageRoute(
+        builder: (context) => ConfirmationScreen(
+          plage: widget.plage,
+          signalement: signalement,
+        ),
+      ),
     );
-    Navigator.pop(context);
   }
 
   @override
