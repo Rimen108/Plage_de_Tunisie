@@ -15,3 +15,16 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## captures des resultats :
+
+# Liste des plages
+![alt text](image.png)
+# Détail d’une plage
+![alt text](image-1.png)
+![alt text](image-2.png)
+# Signaler un problème	
+![alt text](image-3.png)
+# Récapitulatif du signalement
+![alt text](image-4.png)
