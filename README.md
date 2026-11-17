@@ -51,3 +51,5 @@ samples, guidance on mobile development, and a full API reference.
 
 # Repartition de travail 
 ![alt text](<WhatsApp Image 2026-11-17 at 3.05.32 AM.jpeg>)
+# Journal ai :
+https://claude.ai/share/46cf4c8d-369c-41d5-8eb5-f0d6ba71a0a5
