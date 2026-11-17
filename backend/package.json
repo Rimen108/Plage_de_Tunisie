@@ -1,0 +1,9 @@
+{
+  "name": "chatt-backend",
+  "version": "0.1.0",
+  "description": "Backend minimal de Chatt — Plages de Tunisie (jalon J1)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

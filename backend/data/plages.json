@@ -1,0 +1,291 @@
+[
+  {
+    "id": "1",
+    "nom": "Corniche de Bizerte",
+    "gouvernorat": "Bizerte",
+    "latitude": 37.2879,
+    "longitude": 9.877,
+    "description": "Longue promenade face à la mer, à deux pas du Vieux Port. Plage urbaine facile d'accès, bordée de cafés et de terrasses.",
+    "acces_route": "goudronnee",
+    "parking": true,
+    "escaliers": "peu",
+    "ombre": false,
+    "toilettes": true,
+    "accessibilite_seniors": 4,
+    "distance_km": 66,
+    "duree_min": 55,
+    "meteo": {
+      "hauteur_vagues": 0.4,
+      "periode": 4.0,
+      "temperature_eau": 21.0,
+      "vent": 14,
+      "uv": 3
+    },
+    "lieux": [
+      {
+        "nom": "Café de la Corniche",
+        "categorie": "café",
+        "distance_m": 120
+      },
+      {
+        "nom": "Café El Bahr",
+        "categorie": "café",
+        "distance_m": 250
+      },
+      {
+        "nom": "Restaurant Le Pêcheur",
+        "categorie": "restaurant",
+        "distance_m": 300
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "nom": "Plage de Rafraf",
+    "gouvernorat": "Bizerte",
+    "latitude": 37.195,
+    "longitude": 10.183,
+    "description": "Village de pêcheurs et plage de sable fin face à la baie. Très fréquentée en été, avec une eau peu profonde idéale pour les enfants.",
+    "acces_route": "goudronnee",
+    "parking": true,
+    "escaliers": "aucun",
+    "ombre": false,
+    "toilettes": true,
+    "accessibilite_seniors": 4,
+    "distance_km": 52,
+    "duree_min": 50,
+    "meteo": {
+      "hauteur_vagues": 0.6,
+      "periode": 4.5,
+      "temperature_eau": 21.0,
+      "vent": 18,
+      "uv": 3
+    },
+    "lieux": [
+      {
+        "nom": "Café du Port",
+        "categorie": "café",
+        "distance_m": 200
+      },
+      {
+        "nom": "Restaurant Chez Slah",
+        "categorie": "restaurant",
+        "distance_m": 350
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "nom": "Cap Zébib",
+    "gouvernorat": "Bizerte",
+    "latitude": 37.2653,
+    "longitude": 10.0832,
+    "description": "Crique sauvage au pied d'un cap, à l'écart des routes. Eau très claire, mais l'accès se fait par une piste réservée aux 4x4.",
+    "acces_route": "piste_4x4",
+    "parking": false,
+    "escaliers": "peu",
+    "ombre": false,
+    "toilettes": false,
+    "accessibilite_seniors": 1,
+    "distance_km": 78,
+    "duree_min": 75,
+    "meteo": {
+      "hauteur_vagues": 0.8,
+      "periode": 5.5,
+      "temperature_eau": 20.0,
+      "vent": 22,
+      "uv": 3
+    },
+    "lieux": []
+  },
+  {
+    "id": "4",
+    "nom": "Plage de La Marsa",
+    "gouvernorat": "Tunis",
+    "latitude": 36.8782,
+    "longitude": 10.3247,
+    "description": "Grande plage de la banlieue nord de Tunis, animée toute l'année. Promenade, cafés et restaurants à proximité immédiate.",
+    "acces_route": "goudronnee",
+    "parking": true,
+    "escaliers": "peu",
+    "ombre": false,
+    "toilettes": true,
+    "accessibilite_seniors": 3,
+    "distance_km": 17,
+    "duree_min": 25,
+    "meteo": {
+      "hauteur_vagues": 0.5,
+      "periode": 4.2,
+      "temperature_eau": 20.0,
+      "vent": 16,
+      "uv": 3
+    },
+    "lieux": [
+      {
+        "nom": "Café Le Phare",
+        "categorie": "café",
+        "distance_m": 150
+      },
+      {
+        "nom": "Café des Nattes",
+        "categorie": "café",
+        "distance_m": 300
+      },
+      {
+        "nom": "Restaurant La Voile",
+        "categorie": "restaurant",
+        "distance_m": 400
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "nom": "Plage de Hammamet",
+    "gouvernorat": "Nabeul",
+    "latitude": 36.4,
+    "longitude": 10.615,
+    "description": "Longue plage de sable fin et eau calme dans le golfe de Hammamet. Pente douce, accès de plain-pied et nombreux services : l'idéal en famille.",
+    "acces_route": "goudronnee",
+    "parking": true,
+    "escaliers": "aucun",
+    "ombre": true,
+    "toilettes": true,
+    "accessibilite_seniors": 5,
+    "distance_km": 65,
+    "duree_min": 60,
+    "meteo": {
+      "hauteur_vagues": 0.3,
+      "periode": 3.8,
+      "temperature_eau": 22.0,
+      "vent": 9,
+      "uv": 4
+    },
+    "lieux": [
+      {
+        "nom": "Café Yasmine",
+        "categorie": "café",
+        "distance_m": 150
+      },
+      {
+        "nom": "Restaurant Le Jasmin",
+        "categorie": "restaurant",
+        "distance_m": 200
+      },
+      {
+        "nom": "Café de la Médina",
+        "categorie": "café",
+        "distance_m": 500
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "nom": "Plage de Mansourah (Kélibia)",
+    "gouvernorat": "Nabeul",
+    "latitude": 36.818,
+    "longitude": 11.099,
+    "description": "Plage de sable blanc dominée par la forteresse de Kélibia, avec une eau turquoise. On y descend par un long escalier depuis la route.",
+    "acces_route": "piste_praticable",
+    "parking": true,
+    "escaliers": "nombreux",
+    "ombre": false,
+    "toilettes": false,
+    "accessibilite_seniors": 2,
+    "distance_km": 118,
+    "duree_min": 100,
+    "meteo": {
+      "hauteur_vagues": 0.7,
+      "periode": 5.0,
+      "temperature_eau": 21.0,
+      "vent": 20,
+      "uv": 3
+    },
+    "lieux": [
+      {
+        "nom": "Café de la Plage",
+        "categorie": "café",
+        "distance_m": 400
+      },
+      {
+        "nom": "Restaurant Le Cap",
+        "categorie": "restaurant",
+        "distance_m": 650
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "nom": "Plage Boujaafar (Sousse)",
+    "gouvernorat": "Sousse",
+    "latitude": 35.8286,
+    "longitude": 10.642,
+    "description": "Plage urbaine au cœur de Sousse, avec sa promenade aménagée et ses transats. Accès direct depuis la corniche, sans aucune marche.",
+    "acces_route": "goudronnee",
+    "parking": true,
+    "escaliers": "aucun",
+    "ombre": false,
+    "toilettes": true,
+    "accessibilite_seniors": 5,
+    "distance_km": 140,
+    "duree_min": 100,
+    "meteo": {
+      "hauteur_vagues": 0.5,
+      "periode": 4.0,
+      "temperature_eau": 22.0,
+      "vent": 12,
+      "uv": 4
+    },
+    "lieux": [
+      {
+        "nom": "Café Les Palmiers",
+        "categorie": "café",
+        "distance_m": 100
+      },
+      {
+        "nom": "Café Marhaba",
+        "categorie": "café",
+        "distance_m": 220
+      },
+      {
+        "nom": "Restaurant Le Corail",
+        "categorie": "restaurant",
+        "distance_m": 300
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "nom": "Plage de Sidi Mahrez (Djerba)",
+    "gouvernorat": "Médenine",
+    "latitude": 33.839,
+    "longitude": 11.006,
+    "description": "Immense plage de sable fin sur l'île de Djerba, aux eaux turquoise et peu profondes. Mer très calme et ombre grâce aux paillotes.",
+    "acces_route": "goudronnee",
+    "parking": true,
+    "escaliers": "aucun",
+    "ombre": true,
+    "toilettes": true,
+    "accessibilite_seniors": 5,
+    "distance_km": 480,
+    "duree_min": 345,
+    "meteo": {
+      "hauteur_vagues": 0.2,
+      "periode": 3.5,
+      "temperature_eau": 23.0,
+      "vent": 10,
+      "uv": 4
+    },
+    "lieux": [
+      {
+        "nom": "Café Les Dunes",
+        "categorie": "café",
+        "distance_m": 180
+      },
+      {
+        "nom": "Restaurant Le Mérou",
+        "categorie": "restaurant",
+        "distance_m": 260
+      }
+    ]
+  }
+]
