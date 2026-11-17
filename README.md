@@ -28,3 +28,10 @@ samples, guidance on mobile development, and a full API reference.
 ![alt text](image-3.png)
 # Récapitulatif du signalement
 ![alt text](image-4.png)
+
+## Schéma de navigation
+
+ Accueil → Liste → Détail (plage) → Signaler → Confirmation → Détail
+ Accueil → Favoris → Détail (plage)
+ Accueil → Assistant → Détail (plage)
+ Accueil → Paramètres
