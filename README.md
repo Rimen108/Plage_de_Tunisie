@@ -48,3 +48,6 @@ samples, guidance on mobile development, and a full API reference.
 =======
 >>>>>>> 97a18b69a1737a51b1a42f98409973df65cbd793
 >>>>>>> 2fd2d9ef0e5ea78a36a6c6e39a01795004e2aabe
+
+# Repartition de travail 
+![alt text](<WhatsApp Image 2026-11-17 at 3.05.32 AM.jpeg>)
